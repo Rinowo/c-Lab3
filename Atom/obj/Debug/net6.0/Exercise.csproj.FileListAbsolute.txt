@@ -1,0 +1,15 @@
+F:\T2106\C Sharp\Git\c-Lab3\Atom\bin\Debug\net6.0\Exercise.exe
+F:\T2106\C Sharp\Git\c-Lab3\Atom\bin\Debug\net6.0\Exercise.deps.json
+F:\T2106\C Sharp\Git\c-Lab3\Atom\bin\Debug\net6.0\Exercise.runtimeconfig.json
+F:\T2106\C Sharp\Git\c-Lab3\Atom\bin\Debug\net6.0\Exercise.dll
+F:\T2106\C Sharp\Git\c-Lab3\Atom\bin\Debug\net6.0\Exercise.pdb
+F:\T2106\C Sharp\Git\c-Lab3\Atom\obj\Debug\net6.0\Exercise.csproj.AssemblyReference.cache
+F:\T2106\C Sharp\Git\c-Lab3\Atom\obj\Debug\net6.0\Exercise.GeneratedMSBuildEditorConfig.editorconfig
+F:\T2106\C Sharp\Git\c-Lab3\Atom\obj\Debug\net6.0\Exercise.AssemblyInfoInputs.cache
+F:\T2106\C Sharp\Git\c-Lab3\Atom\obj\Debug\net6.0\Exercise.AssemblyInfo.cs
+F:\T2106\C Sharp\Git\c-Lab3\Atom\obj\Debug\net6.0\Exercise.csproj.CoreCompileInputs.cache
+F:\T2106\C Sharp\Git\c-Lab3\Atom\obj\Debug\net6.0\Exercise.dll
+F:\T2106\C Sharp\Git\c-Lab3\Atom\obj\Debug\net6.0\refint\Exercise.dll
+F:\T2106\C Sharp\Git\c-Lab3\Atom\obj\Debug\net6.0\Exercise.pdb
+F:\T2106\C Sharp\Git\c-Lab3\Atom\obj\Debug\net6.0\Exercise.genruntimeconfig.cache
+F:\T2106\C Sharp\Git\c-Lab3\Atom\obj\Debug\net6.0\ref\Exercise.dll

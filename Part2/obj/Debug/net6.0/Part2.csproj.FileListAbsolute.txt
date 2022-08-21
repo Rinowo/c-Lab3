@@ -1,0 +1,15 @@
+F:\T2106\C Sharp\Git\c-Lab3\Part2\bin\Debug\net6.0\Part2.exe
+F:\T2106\C Sharp\Git\c-Lab3\Part2\bin\Debug\net6.0\Part2.deps.json
+F:\T2106\C Sharp\Git\c-Lab3\Part2\bin\Debug\net6.0\Part2.runtimeconfig.json
+F:\T2106\C Sharp\Git\c-Lab3\Part2\bin\Debug\net6.0\Part2.dll
+F:\T2106\C Sharp\Git\c-Lab3\Part2\bin\Debug\net6.0\Part2.pdb
+F:\T2106\C Sharp\Git\c-Lab3\Part2\obj\Debug\net6.0\Part2.csproj.AssemblyReference.cache
+F:\T2106\C Sharp\Git\c-Lab3\Part2\obj\Debug\net6.0\Part2.GeneratedMSBuildEditorConfig.editorconfig
+F:\T2106\C Sharp\Git\c-Lab3\Part2\obj\Debug\net6.0\Part2.AssemblyInfoInputs.cache
+F:\T2106\C Sharp\Git\c-Lab3\Part2\obj\Debug\net6.0\Part2.AssemblyInfo.cs
+F:\T2106\C Sharp\Git\c-Lab3\Part2\obj\Debug\net6.0\Part2.csproj.CoreCompileInputs.cache
+F:\T2106\C Sharp\Git\c-Lab3\Part2\obj\Debug\net6.0\Part2.dll
+F:\T2106\C Sharp\Git\c-Lab3\Part2\obj\Debug\net6.0\refint\Part2.dll
+F:\T2106\C Sharp\Git\c-Lab3\Part2\obj\Debug\net6.0\Part2.pdb
+F:\T2106\C Sharp\Git\c-Lab3\Part2\obj\Debug\net6.0\Part2.genruntimeconfig.cache
+F:\T2106\C Sharp\Git\c-Lab3\Part2\obj\Debug\net6.0\ref\Part2.dll
